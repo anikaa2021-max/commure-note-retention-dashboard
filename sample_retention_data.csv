@@ -1,0 +1,7 @@
+event_id,note_id,site_id,provider_id,note_type,stage,tokens_before,tokens_after,event_ts
+1,N001,AlphaMed,Dr. Smith,SOAP,ai_draft,900,765,2025-10-20T10:00:00Z
+2,N001,AlphaMed,Dr. Smith,SOAP,signed_note,900,765,2025-10-20T10:30:00Z
+3,N002,BetaClin,Dr. Jones,Consult,ai_draft,1100,1000,2025-10-21T09:00:00Z
+4,N002,BetaClin,Dr. Jones,Consult,signed_note,1100,780,2025-10-21T09:30:00Z
+5,N003,AlphaMed,Dr. Lee,OpNote,ai_draft,950,950,2025-10-22T11:00:00Z
+6,N003,AlphaMed,Dr. Lee,OpNote,signed_note,950,750,2025-10-22T11:30:00Z
