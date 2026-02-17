@@ -18,6 +18,15 @@ This dashboard shows:
 - Drill-downs to investigate specific sites
 - Auto-refresh to simulate near real-time event ingestion
 
+## Dashboard Preview
+
+![Dashboard Overview](dashboard_overview.png)
+
+![Filter Example](filter_provider.png)
+
+![Retention Alerts](retention_alerts.png)
+
+![Drill-down](drilldown.png)
 ---
 
 ## Retention Metric
